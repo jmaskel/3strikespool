@@ -1,0 +1,16 @@
+{
+  "name": "pickem",
+  "version": "1.0.0",
+  "description": "NFL 3-strikes Pool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Jeffrey Maskel",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4"
+  }
+}
